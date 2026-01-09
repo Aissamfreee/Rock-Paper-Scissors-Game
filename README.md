@@ -1,1 +1,1 @@
-# project_1_doctor
+# Rock–Paper–Scissors
